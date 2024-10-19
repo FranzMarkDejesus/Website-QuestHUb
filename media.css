@@ -1,0 +1,413 @@
+  /* Viewport For Mobile  */
+@media only screen and (max-width: 430px) {
+    .main-container {
+      padding: 10px;
+      width: 100%;
+      height: 2910px;
+    }
+  
+    /* Stack elements vertically */
+    .flex-row-d, .flex-row-da, .flex-row-df, .flex-row-b {
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+    /* Make rectangles fill the width of the screen */
+    .rectangle-5, .rectangle-6, .rectangle-8, .rectangle-a, .rectangle-c {
+      width: 100%;
+      margin: 10px 0;
+    }
+    .Search_logo, .search-placeholder, .rectangle,.Nav_bar, .Video, .rectangle-5, .ps5_icon, .rectangle-16, .rectangle-20, .feature-nsw-games, .sony-playstation, .topps-oneup, .flex-row-fc{
+      display: none;
+    }
+    /* still to adjust after to put hamburger menu */
+    .questhub-logo{ 
+      height: 190px;
+      width: 152px;
+      left: 220px;
+      top: -45px;
+    }
+    .feature-ps-games{
+      top: -455px;
+      font-size: 40px;
+      left: 60px;
+      color: #d9d9d9;
+    }
+    .Video2{
+      height: 300px;
+      width: 500px;
+      top: 175px;
+      left: -10px;
+    }
+    /* Start */
+    .rectangle-6, .rectangle-8, .rectangle-a, .rectangle-c{
+      top: -390px;
+      left: -1px;
+      height: 300px;
+      width: 200px;
+    }
+    .final-fantasy-xvi, .final-fantasy-xvi-7, .php, .GodOfWar, .godofwar, .php-9, .NBA, .nbak, .php-d, .EldenRing, .elden-ring-ps,.php-b{
+      left: 200px;
+      height: 100px;
+      width: 170px;
+      font-size: 10px;
+      z-index: 1000;
+    }
+    .rectangle-8{
+      left: 214px;
+    }
+    .rectangle-a, .rectangle-c{
+      top: 100px;
+    }
+    .final-fantasy-xvi{
+      left: 20px;
+      height: 300px;
+      width: 150px;
+    }
+    .final-fantasy-xvi-7, .php{
+      top: -140px;
+      left: -15px;
+      font-size: 20px;
+    }
+    .php{
+      top: -190px;
+      left: -35px;
+    }
+    .GodOfWar, .godofwar, .php-9{
+      left: 25px;
+      top: -25px;
+      height: 250px;
+      width: 150px;
+    }
+    .godofwar{
+      font-size: 25px;
+      top: -200px;
+      left: -10px;
+    }
+    .php-9{
+      top: 150px;
+      font-size: 20px;
+    }
+    .rectangle-a, .rectangle-c{
+      top: -50px;
+    }
+    .rectangle-c{
+      left: 215px;
+    }
+    .EldenRing, .elden-ring-ps, .php-b{
+      left: 15px;
+    }
+    .EldenRing{
+      height: 220px;
+      width: 170px;
+    }
+    .elden-ring-ps, .php-b{
+      top: -125px;
+      font-size: 20px;
+      left: -5px;
+    }
+    .php-b{
+      top: -170px;
+      left: -30px;
+    }
+    .NBA, .nbak, .php-d{
+      left: 20px;
+      top: 100px;
+    }
+    .NBA{
+      height: 290px;
+      width: 190px;
+      top: -35px;
+      left: 10px;
+    }
+    .nbak, .php-d{
+      top: 220px;
+      font-size: 25px;
+    }
+    .nbak{
+      top: 160px;
+    }
+    /* End of PS5 */
+  
+    /* Start of PS4 */
+    .ps4_background{
+      height: 1px;
+      width: 1px;
+    }
+    .rectangle-e, .rectangle-10, .rectangle-12, .rectangle-14{
+      top: -390px;
+      left: -900px;
+      height: 300px;
+      width: 200px;
+    }
+    .feature-ps-games-17{
+      top: -528px;
+      font-size: 40px;
+      left: -750px;
+      color: #d9d9d9;
+    }
+    .rectangle-e, .rectangle-10{
+      left: -908px;
+    }
+    .tekken, .tekken7, .php-f{
+      height: 200px;
+      width: 170px;
+      top: -1px;
+    }
+    .tekken{
+      top: 130px;
+      left: 20px;
+    }
+    .php-f{
+      top: 170px;
+      left: 10px;
+    }
+    .rectangle-10{
+      left: -690px;
+    }
+    .Red_Dead{
+      height: 200px;
+      width: 180px;
+      left: -30px;
+    }
+    .red-dead-redemption{
+      top: 205px;
+      width: 150px;
+      left: 30px;
+      font-size: 20px;
+    }
+    .php-11{
+      left: -45px;
+    }
+    .rectangle-12, .rectangle-14{
+      top: -50px;
+      left: -905px;
+    }
+    .rectangle-14{
+      left: -690px;
+    }
+    .uncharted4{
+      height: 210px;
+      width: 180px;
+      left: -25px;
+    }
+    .uncharted, .php-13{
+      font-size: 25px;
+      top: 215px;
+      left: -5px;
+    }
+    .php-13{
+      top: 250px;
+    }
+  
+    .grand_theft_auto{
+      height: 205px;
+      width: 170px;
+      left: -25px;
+    }
+    .grand-theft-auto-five, .php-15{
+      font-size: 17px;
+      top: 215px;
+      left: -45px;
+    }
+    .php-15{
+      top: 250px;
+      left: -5px;
+    }
+    .every-game-is-adventure{
+      top: -120px;
+      font-size: 40px;
+      left: -30px ;
+      color: #d9d9d9;
+    }
+    .img-d{
+      height: 1px;
+      width: 1px;
+    }
+    .rectangle-18, .rectangle-19, .rectangle-1b, .rectangle-1d{
+      top: -30px;
+      left: -525px;
+      height: 300px;
+      width: 200px;
+    }
+    .rectangle-18, .rectangle-19{
+      left: -525px;
+    }
+    .rectangle-19{
+      left: -310px;
+    }
+    .vis-nav-switch-games-photoroom, .tsuper-mario-bros-wonder, .php-1f{
+      height: 220px;
+      width: 110px;
+      top: -10px;
+      left: -10px;
+    }
+    .super-mario-bros-wonder, .php-1f{
+      font-size: 15px;
+      top: 200px;
+      left: -60px;
+    }
+    .php-1f{
+      top: 170px;
+      left: 20px;
+      font-size: 20px;
+      width: 150px;
+    }
+    .cats-duty, .cats, .php-1a{
+      height: 220px;
+      width: 110px;
+      top: -10px;
+      left: -10
+    }
+    .cats-duty, .php-1a{
+      font-size: 16px;
+      top: 130px;
+      left: 50px;
+      width: 100px;
+    }
+    .php-1a{
+      top: -120px;
+      left: -20px;
+      font-size: 20px;
+      width: 150px;
+    }
+    .rectangle-1b, .rectangle-1d{
+      left: -520px;
+      top: 300px;
+    }
+    .Just-Dance, .justDance, .php-1c{
+        height: 220px;
+        width: 110px;
+        top: -10px;
+        left: 20px;
+      }
+      .Just-Dance, .php-1c{
+        font-size: 16px;
+        top: 130px;
+        left: 50px;
+        width: 100px;
+      }
+      .php-1c{
+        top: -100px;
+        left: -20px;
+        font-size: 20px;
+        width: 150px;
+      }
+    .rectangle-1d{
+        left: -310px;
+    }
+    .gungrave_gore, .gungrave-gore, .php-1e{
+        height: 310px;
+        width: 190px;
+        top: -50px;
+        left: 10px;
+      }
+      .gungrave-gore, .php-1e{
+        font-size: 16px;
+        top: -260px;
+        left: 30px;
+        width: 100px;
+      }
+      .php-1e{
+        top: -515px;
+        left: -20px;
+        font-size: 20px;
+        width: 150px;
+      }
+      .rectangle-21 {
+        top: -100px;
+        left: -10px;
+      }
+      .questhub-logo-transparent, .created-by-franz-26, .placeholders-copyright-27{
+        text-align: inline;
+        right: -70px;
+      }
+      .placeholders-copyright-27{
+        left: 70px;
+        top: -7px;
+      }
+  }
+  /* Viewport For Print */
+  @media print {
+    body {
+            background-color: #fff;
+            color: #000;
+    }
+    .rectangle, Video, .flex-row-fc, .placeholders-copyright-27, .created-by-franz-26, .phone-number, .explore-questhub-22{
+      display: none;
+    }
+  }
+  
+ /* Viewport For Tablet*/
+
+ @media only screen and (min-width: 834px) and (max-width: 1366px){
+  .main-container {
+    padding: 0;
+    width: 100vw;
+    height: 3575px;
+  }
+  .questhub-logo{
+    left: -50px;
+    top: -10px;
+  }
+  .Search_logo, .Video2{
+    display: none;
+  }
+  .rectangle{
+    left: 150px;
+    width: 20%;
+  }
+  .group{
+    left: 650px;
+  }
+  .Nav_bar{
+    left: -200px;
+  }
+  .computer-parts, .accessories, .game-credit, .games, .index{
+    font-size: 25px;
+  }
+  .games{
+    left: 300px;
+  }
+  .accessories{
+    left: 450px;
+  }
+  .game-credit{
+    left: 650px;
+  }
+  .computer-parts{
+    left: 850px;
+  }
+  .popular-games{
+    left: -450px;
+  }
+  Video{
+    width: 1000px;
+    height: 600px;
+    left: -10px;
+  }
+  .flex-row-fc{
+    left: 50px;
+    font-size: 110px;
+    width: 100px;
+  }
+  .customer-care, .explore-questhub-22, .phone-number{
+    left: 300px;
+  }
+  .CustomerCare, .my-account-wish-list{
+    left: 550px;
+  }
+  .follow-us{
+    left: 820px;
+    top: 30px;
+  }
+  .facebook-logo, .pic-15, .removebg-preview-23{
+    left: 820px;
+  }
+  .pic-15{
+    left: 870px;
+  }
+  .removebg-preview-23{
+    left: 750px;
+  }
+ }
